@@ -1,0 +1,33 @@
+1694637336: mosquitto version 2.0.17 starting
+1694637336: Config loaded from /mosquitto/config/mosquitto.conf.
+1694637336: Error: Unable to open pwfile "/mosquitto/config/password".
+1694637336: Error opening password file "/mosquitto/config/password".
+1694637377: mosquitto version 2.0.17 starting
+1694637377: Config loaded from /mosquitto/config/mosquitto.conf.
+1694637377: Opening ipv4 listen socket on port 1883.
+1694637377: Opening ipv6 listen socket on port 1883.
+1694637377: Opening websockets listen socket on port 9002.
+1694637377: mosquitto version 2.0.17 running
+1694637420: mosquitto version 2.0.17 terminating
+1694637420: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1694637455: mosquitto version 2.0.17 starting
+1694637455: Config loaded from /mosquitto/config/mosquitto.conf.
+1694637455: Opening ipv4 listen socket on port 1883.
+1694637455: Opening ipv6 listen socket on port 1883.
+1694637455: Opening websockets listen socket on port 9002.
+1694637455: mosquitto version 2.0.17 running
+1694637661: New connection from 192.168.16.1:43406 on port 1883.
+1694637661: New client connected from 192.168.16.1:43406 as mqttx_e8955c82 (p5, c1, k60, u'willy').
+1694637865: mosquitto version 2.0.17 terminating
+1694637865: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1694638404: mosquitto version 2.0.17 starting
+1694638404: Config loaded from /mosquitto/config/mosquitto.conf.
+1694638404: Opening ipv4 listen socket on port 1883.
+1694638404: Opening ipv6 listen socket on port 1883.
+1694638404: Opening websockets listen socket on port 9002.
+1694638404: mosquitto version 2.0.17 running
+1694638437: New connection from 172.18.0.1:44480 on port 1883.
+1694638438: New client connected from 172.18.0.1:44480 as mqttx_29b32f4d (p5, c1, k60, u'willy').
+1694638817: Client mqttx_29b32f4d disconnected.
+1694638829: mosquitto version 2.0.17 terminating
+1694638829: Saving in-memory database to /mosquitto/data/mosquitto.db.

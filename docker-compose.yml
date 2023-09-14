@@ -1,0 +1,15 @@
+version: "3.9"
+services: 
+  mosquito:
+    image: eclipse-mosquitto:2
+    volumes:
+      - ./config:/mosquitto/config
+      - ./config:/mosquitto/data
+      - ./config:/mosquitto/log
+    ports:
+      - "1883:1883"
+      - "9002:9002"
+volumes:
+  config:
+  data:
+  log:
